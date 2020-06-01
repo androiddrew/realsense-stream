@@ -4,6 +4,8 @@
 #
 #    pip-compile dev_requirements.in
 #
+--extra-index-url https://nexus.runcible.io/repository/runcible_pypi/simple/
+
 appdirs==1.4.4            # via black
 attrs==19.3.0             # via black
 black==19.10b0            # via -r dev_requirements.in
