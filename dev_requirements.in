@@ -1,0 +1,6 @@
+black
+bumpversion
+flake8
+pip-tools
+wheel
+
